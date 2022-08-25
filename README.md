@@ -7,7 +7,7 @@ Formulario - Avalie a sua mentoria
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/math-matos/Avalie-a-sua-Mentoria?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/math-matos/Avalie-a-sua-Mentoria?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="wallpaper.png" alt="imagem de um formulario">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
